@@ -1,7 +1,3 @@
-Here’s a polished **README.md** draft for your tool, based on the description you provided:
-
----
-
 # 🗂️ Git Weekly Merge
 
 A Python utility to clean up messy commit histories by **merging commits per ISO week** into a new branch.  
@@ -68,4 +64,5 @@ When your repo has **too many small commits** (e.g., 40 commits with minimal cha
 - Simplify history
 - Improve readability
 - Create clean weekly summaries
+
 
